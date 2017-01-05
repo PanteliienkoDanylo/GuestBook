@@ -12,7 +12,7 @@
 
     <servlet-mapping>
         <servlet-name>controllerServlet</servlet-name>
-        <url-pattern>/controllerServlet</url-pattern>
+        <url-pattern>/guest_book</url-pattern>
     </servlet-mapping>
 
 </web-app>
